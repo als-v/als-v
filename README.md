@@ -15,4 +15,4 @@
 
   &emsp;&emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/als-v/)
   [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/als-v)
-![](https://komarev.com/ghpvc/?username=jha-vineet69&color=7957d5)
+![](https://komarev.com/ghpvc/?username=als-v&color=7957d5)
