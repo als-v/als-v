@@ -8,7 +8,7 @@
 ### 🏆 Github Stats:
 <a href="https://github.com/als-v">
     <img height="180em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=als-v&hide=stars&show_icons=true&theme=dark" />
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=als-v&hide=smalltalk&theme=dark" /> 
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=als-v&hide=smalltalk&theme=dark" /> 
 </a>
 
 ### Social Media :busts_in_silhouette: Social Media
