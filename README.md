@@ -8,8 +8,8 @@
 ### 🏆 Github Stats:
 <p align="center">
     <a href="https://github.com/als-v">
-        <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=als-v&hide=stars&show_icons=true&theme=dark" />
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=als-v&hide=smalltalk&theme=dark&layout=compact" /> 
+        <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=als-v&hide=stars&show_icons=true&theme=dark&count_private=true" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=als-v&hide=smalltalk&theme=dark&layout=compact&langs_count=6" /> 
     </a>
 </p>
 
