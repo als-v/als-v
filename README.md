@@ -1,9 +1,10 @@
 ### Hi there, I'm Alisson 👋
 
 ## I'm an Computer Scientist Student!
-- 🔭 I’m currently studying Computer Science at Federal Technological University of Paraná!
-- 🌱 I’m currently Learning Angular, Python, Typscript.
-- 📫 My e-mail: alisson.v3@hotmail.com
+- 🔭   I’m currently studying Computer Science at Federal Technological University of Paraná!
+- 🌱   I’m currently Learning Angular, Python, Typscript.
+- 🔧 Developer at Tytotech
+- 📫   My e-mail: alisson.v3@hotmail.com
 
 ### 🏆 Github Stats:
 <p align="center">
