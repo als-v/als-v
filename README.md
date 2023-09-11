@@ -3,7 +3,7 @@
 ## I'm an Computer Scientist Student!
 - 🔭   I’m currently studying Computer Science at Federal Technological University of Paraná!
 - 🌱   I’m currently Learning Angular, Python, Typscript.
-- 🔧 Developer at Tytotech
+- 🔧 Developer at Valen - Desenvolvimento De Sistemas
 - 📫   My e-mail: alisson.v3@hotmail.com
 
 ### 🏆 Github Stats:
